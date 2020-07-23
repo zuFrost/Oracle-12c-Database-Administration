@@ -22,6 +22,11 @@ All lectures https://www.linkedin.com/learning/instructors/david-yahalom?u=21131
 ![](https://github.com/zuFrost/Oracle-12c-Database-Administration/blob/master/03%20Instance%20Background%20Processes/03.02%20Log%20writer/Screenshot_9.png) <br>
 
 ### 03.03 Checkpoint process
-![] () <br>
+![] (https://github.com/zuFrost/Oracle-12c-Database-Administration/blob/master/03%20Instance%20Background%20Processes/03.03%20Checkpoint%20process/Screenshot_1.png) <br>
+![] (https://github.com/zuFrost/Oracle-12c-Database-Administration/blob/master/03%20Instance%20Background%20Processes/03.03%20Checkpoint%20process/Screenshot_2.png) <br>
+![] (https://github.com/zuFrost/Oracle-12c-Database-Administration/blob/master/03%20Instance%20Background%20Processes/03.03%20Checkpoint%20process/Screenshot_3.png) <br>
+![] (https://github.com/zuFrost/Oracle-12c-Database-Administration/blob/master/03%20Instance%20Background%20Processes/03.03%20Checkpoint%20process/Screenshot_4.png) <br>
+![] (https://github.com/zuFrost/Oracle-12c-Database-Administration/blob/master/03%20Instance%20Background%20Processes/03.03%20Checkpoint%20process/Screenshot_5.png) <br>
+![] (https://github.com/zuFrost/Oracle-12c-Database-Administration/blob/master/03%20Instance%20Background%20Processes/03.03%20Checkpoint%20process/Screenshot_6.png) <br>
 
 ### 03.04 SMON process
