@@ -9,3 +9,7 @@ All lectures https://www.linkedin.com/learning/instructors/david-yahalom?u=21131
 ![2](https://github.com/zuFrost/Oracle-12c-Database-Administration/blob/master/03%20Instance%20Background%20Processes/03.01%20Database%20writer/Screenshot_3.png)<br>
 ![2](https://github.com/zuFrost/Oracle-12c-Database-Administration/blob/master/03%20Instance%20Background%20Processes/03.01%20Database%20writer/Screenshot_4.png)<br>
 ![2](https://github.com/zuFrost/Oracle-12c-Database-Administration/blob/master/03%20Instance%20Background%20Processes/03.01%20Database%20writer/Screenshot_5.png)<br>
+
+#### 03.02 Log writer
+
+#### 03.03 Checkpoint process
