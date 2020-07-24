@@ -1,17 +1,12 @@
 # Oracle-12c-Database-Administration 
 ## by David Yahalom https://www.linkedin.com/learning/oracle-12c-database-administration/welcome?u=2113185
 All lectures https://www.linkedin.com/learning/instructors/david-yahalom?u=2113185 <br>
-![03 Instance Background Processes][https://github.com/zuFrost/Oracle-12c-Database-Administration#03-instance-background-processes]<br>
-![03.01 Database writer] [https://github.com/zuFrost/Oracle-12c-Database-Administration#0301-database-writer]<br>
+![03 Instance Background Processes](https://github.com/zuFrost/Oracle-12c-Database-Administration#03-instance-background-processes)<br>
+![03.01 Database writer](https://github.com/zuFrost/Oracle-12c-Database-Administration#0301-database-writer)<br>
 ![03.02 Log writer](https://github.com/zuFrost/Oracle-12c-Database-Administration#0302-log-writer)<br>
 ![03.03 Checkpoint process](https://github.com/zuFrost/Oracle-12c-Database-Administration#0303-checkpoint-process)<br>
 ![03.04 SMON process]()<br>
-![]()<br>
-![]()<br>
-![]()<br>
-![]()<br>
-![]()<br>
-![]()<br>
+
 
 ## 03 Instance Background Processes
 ### 03.01 Database writer
