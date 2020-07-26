@@ -5,7 +5,7 @@ All lectures https://www.linkedin.com/learning/instructors/david-yahalom?u=21131
 ![03.01 Database writer](https://github.com/zuFrost/Oracle-12c-Database-Administration#0301-database-writer)<br>
 ![03.02 Log writer](https://github.com/zuFrost/Oracle-12c-Database-Administration#0302-log-writer)<br>
 ![03.03 Checkpoint process](https://github.com/zuFrost/Oracle-12c-Database-Administration#0303-checkpoint-process)<br>
-![03.04 SMON process]()<br>
+![03.04 SMON process]()<br> 
 
 
 ## 03 Instance Background Processes
