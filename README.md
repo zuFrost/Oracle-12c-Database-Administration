@@ -1,7 +1,7 @@
 # Oracle-12c-Database-Administration 
 ## by David Yahalom https://www.linkedin.com/learning/oracle-12c-database-administration/welcome?u=2113185
 All lectures https://www.linkedin.com/learning/instructors/david-yahalom?u=2113185 <br>
-Oracle 12c Database_ Administration Certificate 
+Oracle 12c Database_ Administration Certificate https://github.com/zuFrost/Oracle-12c-Database-Administration/blob/master/CertificateOfCompletion_Oracle%2012c%20Database_%20Administration.pdf
 <br><br>
 ![03 Instance Background Processes](https://github.com/zuFrost/Oracle-12c-Database-Administration#03-instance-background-processes)<br>
 ![03.01 Database writer](https://github.com/zuFrost/Oracle-12c-Database-Administration#0301-database-writer)<br>
